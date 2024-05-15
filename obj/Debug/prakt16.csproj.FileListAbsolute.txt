@@ -1,0 +1,9 @@
+E:\Основы алгоритмизации\prakt16\bin\Debug\prakt16.exe.config
+E:\Основы алгоритмизации\prakt16\bin\Debug\prakt16.exe
+E:\Основы алгоритмизации\prakt16\bin\Debug\prakt16.pdb
+E:\Основы алгоритмизации\prakt16\obj\Debug\prakt16.csproj.AssemblyReference.cache
+E:\Основы алгоритмизации\prakt16\obj\Debug\prakt16.csproj.CoreCompileInputs.cache
+E:\Основы алгоритмизации\prakt16\obj\Debug\prakt16.exe
+E:\Основы алгоритмизации\prakt16\obj\Debug\prakt16.pdb
+E:\Основы алгоритмизации\prakt16\obj\Debug\prakt16.zad2.resources
+E:\Основы алгоритмизации\prakt16\obj\Debug\prakt16.csproj.GenerateResource.cache

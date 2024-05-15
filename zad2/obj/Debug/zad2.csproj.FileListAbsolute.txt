@@ -1,0 +1,10 @@
+E:\Основы алгоритмизации\prakt16\zad2\bin\Debug\zad2.exe.config
+E:\Основы алгоритмизации\prakt16\zad2\bin\Debug\zad2.exe
+E:\Основы алгоритмизации\prakt16\zad2\bin\Debug\zad2.pdb
+E:\Основы алгоритмизации\prakt16\zad2\obj\Debug\zad2.csproj.AssemblyReference.cache
+E:\Основы алгоритмизации\prakt16\zad2\obj\Debug\zad2.Form1.resources
+E:\Основы алгоритмизации\prakt16\zad2\obj\Debug\zad2.Properties.Resources.resources
+E:\Основы алгоритмизации\prakt16\zad2\obj\Debug\zad2.csproj.GenerateResource.cache
+E:\Основы алгоритмизации\prakt16\zad2\obj\Debug\zad2.csproj.CoreCompileInputs.cache
+E:\Основы алгоритмизации\prakt16\zad2\obj\Debug\zad2.exe
+E:\Основы алгоритмизации\prakt16\zad2\obj\Debug\zad2.pdb
